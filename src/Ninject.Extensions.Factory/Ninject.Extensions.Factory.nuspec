@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Ninject.Mono.Extensions.Factory</id>
+    <version>$version$</version>
+    <authors>David Mazvovsky</authors>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <licenseUrl>https://github.com/ninject/ninject.extensions.childkernel/raw/master/LICENSE.txt</licenseUrl>
+    <description>$description$</description>
+    <language>en-US</language>
+	<tags>Ninject ioc di mono</tags>
+	<iconUrl>https://github.com/ninject/ninject/raw/master/logos/Ninject-Logo32.png</iconUrl>
+	<projectUrl>http://www.ninject.org</projectUrl>
+  </metadata>
+</package>
